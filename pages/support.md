@@ -10,7 +10,7 @@ We support only the latest version of jQuery. The 1.x and 2.x branches are no lo
 
 jQuery 3 is the current version of jQuery and version 4 is currently in beta. When 4 releases, we will provide fixes and patches for some time before moving version 3 to End of Life.
 
-#### Still on Version 1 or 2? Here are your options
+#### Still on Version 1 or 2? Here are your options:
 
 1. Upgrade to a supported version of jQuery. If possible, the best solution is to upgrade to the supported version of jQuery as this keeps you safe and gives you the best performance and features. If considering a migration, jQuery Migrate is a good resource to explore: [https://github.com/jquery/jquery-migrate](https://github.com/jquery/jquery-migrate).
 
